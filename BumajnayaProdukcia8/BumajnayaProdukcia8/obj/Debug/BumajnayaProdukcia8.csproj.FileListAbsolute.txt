@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Belyaev\БумажнаяПродукция8\BumajnayaProdukcia8\BumajnayaProdukcia8\bin\Debug\BumajnayaProdukcia8.exe.config
+C:\Users\User\Desktop\Belyaev\БумажнаяПродукция8\BumajnayaProdukcia8\BumajnayaProdukcia8\bin\Debug\BumajnayaProdukcia8.exe
+C:\Users\User\Desktop\Belyaev\БумажнаяПродукция8\BumajnayaProdukcia8\BumajnayaProdukcia8\bin\Debug\BumajnayaProdukcia8.pdb
+C:\Users\User\Desktop\Belyaev\БумажнаяПродукция8\BumajnayaProdukcia8\BumajnayaProdukcia8\obj\Debug\BumajnayaProdukcia8.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Belyaev\БумажнаяПродукция8\BumajnayaProdukcia8\BumajnayaProdukcia8\obj\Debug\BumajnayaProdukcia8.Form1.resources
+C:\Users\User\Desktop\Belyaev\БумажнаяПродукция8\BumajnayaProdukcia8\BumajnayaProdukcia8\obj\Debug\BumajnayaProdukcia8.Properties.Resources.resources
+C:\Users\User\Desktop\Belyaev\БумажнаяПродукция8\BumajnayaProdukcia8\BumajnayaProdukcia8\obj\Debug\BumajnayaProdukcia8.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Belyaev\БумажнаяПродукция8\BumajnayaProdukcia8\BumajnayaProdukcia8\obj\Debug\BumajnayaProdukcia8.exe
+C:\Users\User\Desktop\Belyaev\БумажнаяПродукция8\BumajnayaProdukcia8\BumajnayaProdukcia8\obj\Debug\BumajnayaProdukcia8.pdb
